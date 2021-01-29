@@ -1,4 +1,3 @@
-  
 // output todays date
 //today's date
 const date = document.getElementById('date');
@@ -116,12 +115,12 @@ document.addEventListener("keyup", function(){
 
             // increment id
             id++;
-        
+        }
         input.value = "";
     }
 });
 
-// checking and removing items
+// this method is for checking and removing items
 list.addEventListener("click", (event) => {
     
     const element = event.target;
