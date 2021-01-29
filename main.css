@@ -11,7 +11,7 @@ body{
   max-width: 350px;
   width: 100%;
   margin: 10% auto 0;
-  background-color: #fff;
+  background-color:lightblue;
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
 }
@@ -19,7 +19,7 @@ body{
 .header{
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
-  background-color: #ee8208;
+  background-color:blueviolet;
   color: #fff;
   padding: 10px;
   text-align: center;
@@ -35,7 +35,7 @@ body{
 }
 
 .dateAndClear{
-  background-color: #ffd8ad;
+  background-color:cornflowerblue;
   display: flex;
   border-bottom: 1px solid #ccc;
   padding: 10px;
